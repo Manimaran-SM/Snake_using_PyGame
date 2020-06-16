@@ -12,7 +12,7 @@ window_height = 700
 score=0
 
 gameDisplay = pygame.display.set_mode((window_width,window_height))
-pygame.display.set_caption('Slither')
+pygame.display.set_caption('snake')
 
 '''in-built function for clock to keep track of time'''
 clock = pygame.time.Clock()
