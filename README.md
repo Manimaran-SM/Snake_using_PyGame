@@ -55,6 +55,11 @@ $ git clone https://github.com/Manimaran-SM/Snake_using_PyGame.git
 >* If you have any problems regarding this repository while opening feel free ask me [here](https://github.com/Manimaran-SM/Snake_using_PyGame/issues/new)
 
 ## Output:
+<p align="center">
+  <img src="https://github.com/Manimaran-SM/Snake_using_PyGame/blob/master/output1.png" height="400" width="800" alt="Output">
+  <br>
+  <img src="https://github.com/Manimaran-SM/Snake_using_PyGame/blob/master/output.png" height="400" width="800" alt="Output">
+</p>
 
 ### Note:
 * If you have problem related with git command refer this documentation [link](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
